@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: 
+  - press release
 ---
 
 ## Endgame, Inc. Raises $23M Series B Round of Equity Financing
