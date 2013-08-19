@@ -1,0 +1,8 @@
+auto:					true
+permalink:				/:categories/:title
+production_url:			http://endgame.com/
+plugins:				./_plugins
+layouts:				./_layouts
+destination:			./_site
+include:				['.htaccess']
+exclude:				[]
