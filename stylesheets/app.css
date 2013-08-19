@@ -16,6 +16,19 @@ header, footer {
 	text-align: center;
 	/*opacity: .65;*/
 }
+header h2:after {
+	content: "";
+	display: block;
+	margin: 1em auto;
+	height: 5px;
+	background: rgba(0,0,0,0.1);
+	width: 50px;
+}
+.return {
+	text-align: center;
+	display: block;
+	margin-top: 2em;
+}
 footer {
 	opacity: .65;
 }

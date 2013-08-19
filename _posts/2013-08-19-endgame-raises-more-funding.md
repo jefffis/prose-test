@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Endgame Raises More Funding
+image: "http://endgame.com/images/carousel/couch.png"
 layout: post
 categories: 
   - press release
@@ -18,4 +20,4 @@ As part of its expansion, Endgame has recruited several new executives to the co
 
 ### About Endgame
 
-Endgame’s cyber operations platform provides real-time command and control, analytics,  data visualization and knowledge discovery capabilities that support safety and security in cyberspace by revolutionizing the detection and mitigation of cyber-threats. Founded in 2008, Endgame is backed by Bessemer Venture Partners, Kleiner Perkins Caulfield & Byers, Columbia Capital and Paladin Capital Group. The company has offices in Northern Virginia, Maryland, San Antonio, and Atlanta. For more information, please visit [Endamge](http://www.endgame.com).
+Endgame’s cyber operations platform provides real-time command and control, analytics,  data visualization and knowledge discovery capabilities that support safety and security in cyberspace by revolutionizing the detection and mitigation of cyber-threats. Founded in 2008, Endgame is backed by Bessemer Venture Partners, Kleiner Perkins Caulfield & Byers, Columbia Capital and Paladin Capital Group. The company has offices in Northern Virginia, Maryland, San Antonio, and Atlanta. For more information, please visit [Endgame](http://www.endgame.com).
