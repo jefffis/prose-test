@@ -1,5 +1,4 @@
 auto:					true
-#permalink:				/:categories/:title
 permalink:				date
 baseurl:				/prose-test/
 baseurlsans:			/prose-test
