@@ -1,6 +1,8 @@
 auto:					true
-permalink:				/:categories/:title
-production_url:			http://jefffis.github.io/prose-test/
+#permalink:				/:categories/:title
+permalink:				date
+baseurl:				/prose-test/
+baseurlsans:			/prose-test
 plugins:				./_plugins
 layouts:				./_layouts
 destination:			./_site

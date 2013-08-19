@@ -1,6 +1,9 @@
 {% include header.html %}
 	<div role="main">
+		{% if page.image %}
+		<img src="{{ page.image }}" />
+		{% endif %}
 		{{ content }}
-		<a href="/">Back to home</a>
+		<a href="{{ site.baseurl }}">Back to home</a>
 	</div>
 {% include footer.html %}

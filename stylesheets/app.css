@@ -10,8 +10,40 @@ body {
 	max-width: 50em;
 	margin: 0 auto;
 	padding: 0 2em;
+	font-family: 'Kameron', serif;
 }
 header, footer {
 	text-align: center;
-	opacity: .65;
+	/*opacity: .65;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Chivo', sans-serif;
+}
+
+img {
+	width: 100%;
+	display: block;
+	margin: 0 0 2em;
+}
+
+a {
+	color: #ee2e2e;
+}
+header a {
+	text-decoration: none;
+}
+
+@media screen and (min-width: 943px){
+	img {
+		width: 943px;
+		margin-left: -100px;
+	}
+}
+
+@media screen and (min-width: 1143px){
+	img {
+		width: 1143px;
+		margin-left: -200px;
+	}
 }
