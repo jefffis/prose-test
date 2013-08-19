@@ -16,6 +16,12 @@ header, footer {
 	text-align: center;
 	/*opacity: .65;*/
 }
+footer {
+	opacity: .65;
+}
+h6 {
+	font-weight: normal;
+}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Chivo', sans-serif;
