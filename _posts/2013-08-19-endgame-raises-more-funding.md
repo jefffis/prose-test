@@ -9,6 +9,8 @@ categories:
 
 ## Endgame, Inc. Raises $23M Series B Round of Equity Financing
 
+### htiehiehioe
+
 _Herndon, VA_ — March 13, 2013— Endgame, Inc., a leading provider of battle-tested cyber security solutions, announced today that it has closed a $23 million Series B equity financing to fund growth in its existing federal customer base as well as expansion into the commercial market.
 
 Led by new investor Paladin Capital Group, a multi-stage private equity firm providing capital and strategic guidance to growing companies, the Series B includes participation from existing investors Bessemer Venture Partners, Columbia Capital, Kleiner Perkins Caulfield & Byers and TechOperators. Lt. General (Ret) Kenneth A. Minihan, former Director of the National Security Agency and Managing Director at Paladin, will join the Endgame Board of Directors.
