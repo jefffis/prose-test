@@ -1,5 +1,9 @@
 ---
 published: false
+image: "http://endgame.com/images/carousel/couch.png"
+layout: post
+categories: 
+  - "press-release"
 ---
 
 ## Endgame Appoints Niloofar Razi Howe as Chief Strategy Officer
