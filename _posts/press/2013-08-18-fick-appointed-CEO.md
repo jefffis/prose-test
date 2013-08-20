@@ -32,7 +32,3 @@ visionary solutions.”
 
 “Cyber threats from both state and non-state actors represent escalating challenges 
 to both United States national security as well as the corporate security of businesses worldwide.” said Nathaniel Fick, CEO of Endgame.  “I am honored by the opportunity to lead a company that can have such a pivotal role in protecting our national security, our economy, and our critical infrastructure, all of which are now wholly dependent on a safe and secure cyber-domain.”
-
-### About Endgame
-
-Endgame’s cyber operations platform provides real-time command and control, analytics, data visualization and knowledge discovery capabilities that support safety and security in cyberspace by revolutionizing the detection and mitigation of cyber-threats. Founded in 2008, Endgame is backed by Bessemer Venture Partners, Kleiner Perkins Caulfield & Byers, Columbia Capital and Paladin Capital Group. The company has offices in Northern Virginia, Maryland, San Antonio, and Atlanta. For more information, please visit [Endgame](###).

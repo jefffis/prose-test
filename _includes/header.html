@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	
-	<title dir="ltr"></title>
+	<title dir="ltr">{% if page.url == '/index.html' %}Visualize Risk, Create Opportunity | Endgame.{% else %}{% if page.title %}{{ page.title }}{% endif %} | Endgame.{% endif %}</title>
 	<meta name="description" content="" />
 	<link href='http://fonts.googleapis.com/css?family=Kameron|Chivo:400,900' rel='stylesheet' type='text/css' />
 	<link href="{{ site.baseurlsans }}/stylesheets/app.css" rel="stylesheet" type="text/css" />
@@ -14,4 +14,8 @@
 <body>
 	<header role="banner">
 		<h2><a href="{{ site.baseurl }}">Endgame.</a></h2>
+		<ul>
+			{% if page.url != '/index.html' %}<li><a href="{{ site.baseurl }}">Home</a></li>{% endif %}
+			<li><a href="{{ site.baseurlsans }}/about.html">About</a></li>
+		</ul>
 	</header>

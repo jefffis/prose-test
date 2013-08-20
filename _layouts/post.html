@@ -3,14 +3,25 @@
 		{% if page.image %}
 		<img src="{{ page.image }}" />
 		{% endif %}
+
+		{{ post.category }}
+
 		{{ content }}
+
+		<!-- boiler plate -->
+		<h3>About Endgame</h3>
+		<p>Endgame&rsquo;s cyber operations platform provides real-time command and control, analytics, data visualization and knowledge discovery capabilities that support safety and security in cyberspace by revolutionizing the detection and mitigation of cyber-threats. Founded in 2008, Endgame is backed by Bessemer Venture Partners, Kleiner Perkins Caulfield &amp; Byers, Columbia Capital and Paladin Capital Group. The company has offices in Northern Virginia, Maryland, San Antonio, and Atlanta. For more information, please visit <a href="###">Endgame</a>.</p>
+
 		{% if site.related_posts %}
 		<h3>Related Posts</h3>
 		<ul>
-		{% for post in site.related_posts %}
+		{% for post in site.categories.press-release %}
+		{% if post.title == page.title %}
+		{% else %}
 		<li>
 			<a href="{{ site.baseurlsans }}{{ post.url }}">{{ post.title }} <span>{{post.date | date: "%b %Y"}}</span></a>
 		</li>
+		{% endif %}
 		{% endfor %}
 		</ul>
 		{% endif %}

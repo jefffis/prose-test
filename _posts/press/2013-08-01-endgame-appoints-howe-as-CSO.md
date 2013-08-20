@@ -45,7 +45,3 @@ and act in real-time is a critical piece of any organization’s security postur
 engineers and look forward to working with my colleagues to revolutionize how 
 organizations manage and mitigate the risks associated with operating in the 
 cyber domain.”
-
-### About Endgame
-
-Endgame’s cyber operations platform provides real-time command and control, analytics, data visualization and knowledge discovery capabilities that support safety and security in cyberspace by revolutionizing the detection and mitigation of cyber-threats. Founded in 2008, Endgame is backed by Bessemer Venture Partners, Kleiner Perkins Caulfield & Byers, Columbia Capital and Paladin Capital Group. The company has offices in Northern Virginia, Maryland, San Antonio, and Atlanta. For more information, please visit [Endgame](###).
