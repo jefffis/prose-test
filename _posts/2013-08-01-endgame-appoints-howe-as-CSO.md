@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: "http://endgame.com/images/carousel/couch.png"
 layout: post
 categories: 
