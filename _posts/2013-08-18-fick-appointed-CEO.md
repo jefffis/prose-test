@@ -7,7 +7,7 @@ categories:
 published: true
 ---
 
-_Extensive Experience in National Security And Intelligence To Help Drive Expansion Of Endgame’s Federal Business And Entry Into Commercial Cybersecurity Market_
+## Extensive Experience in National Security And Intelligence To Help Drive Expansion Of Endgame’s Federal Business And Entry Into Commercial Cybersecurity Market
 
 ATLANTA (December 4, 2012) – Endgame, a provider of cybersecurity solutions that 
 meet the most demanding challenges of the US Government’s defense and 
