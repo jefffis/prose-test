@@ -11,6 +11,8 @@ categories:
 
 _Herndon, VA_ — March 13, 2013— Endgame, Inc., a leading provider of battle-tested cyber security solutions, announced today that it has closed a $23 million Series B equity financing to fund growth in its existing federal customer base as well as expansion into the commercial market.
 
+![](http://endgame.com/images/carousel/couch.png)
+
 ### _**hogirojriof**_
 
 - item
